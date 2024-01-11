@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "things-mod",
+	"version": "${version}",
+	"name": "Things mod",
+	"description": "This is a Mod by Pepino for they friends",
+	"authors": [
+		"Pepino!"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/things-mod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.alucard.thingsmod.ThingsMod"
+		],
+		"client": [
+			"com.alucard.thingsmod.ThingsModClient"
+		],
+		"fabric-datagen": [
+			"com.alucard.thingsmod.ThingsModDataGenerator"
+		]
+	},
+	"mixins": [
+		"things-mod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.3",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
