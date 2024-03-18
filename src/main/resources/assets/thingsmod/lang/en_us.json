@@ -1,0 +1,14 @@
+{
+  "item.thingsmod.ruby": "Ruby",
+  "item.thingsmod.raw_ruby": "Ruby ore",
+  "item.thingsmod.detector_de_metais": "Detector de metais",
+  "item.thingsmod.hidromel": "Hidromel",
+  "item.thingsmod.tomato": "Tomate",
+  "item.thingsmod.coal_briquette": "Carvão anão",
+  "item.thingsmod.brisado": "Cogumelo do Tio Harry",
+  "itemgroup.ruby": "Things",
+  "item.minecraft.potion.effect.hidromel": "Hidromel",
+  "block.thingsmod.ruby_block": "Ruby block",
+  "tooltip.thingsmod.detector_de_metais.tooltip": "Acha minérios debaixo do solo",
+  "block.thingsmod.sound_block": "Bloco de som"
+}
