@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "thingsmod:block/ruby_ore"
+    }
+  }
+}

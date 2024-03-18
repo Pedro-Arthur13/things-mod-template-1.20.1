@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "thingsmod:block/sound_block"
+    }
+  }
+}

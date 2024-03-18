@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "thingsmod:ruby_block",
+    "thingsmod:sound_block"
+  ]
+}
